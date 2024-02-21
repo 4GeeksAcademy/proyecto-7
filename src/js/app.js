@@ -61,8 +61,7 @@ function render(variables = {}) {
  * Don't change any of the lines below, here is where we do the logic for the dropdowns
  */
 window.onload = function() {
-  window.variables = {
-    // if includeCover is true the algorithm should show the cover image
+  window.variables = {git 
     includeCover: true,
     // this is the image's url that will be used as a background for the profile cover
     background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
